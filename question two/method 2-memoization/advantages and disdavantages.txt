@@ -1,0 +1,6 @@
+Advantages:
+-Efficient for repetitive calculations, as it stores previously calculated results.
+-Reduces time complexity to linear for F(n).
+
+Disadvantages:
+-Uses extra memory for the memoization table, which could be a concern for very large values of n.

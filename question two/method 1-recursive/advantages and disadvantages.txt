@@ -1,0 +1,6 @@
+Advantages:
+-Simple and easy to understand.
+
+Disadvantages:
+-Exponential time complexity, leading to slow execution for large values of n.
+-Redundant calculations due to repetitive function calls.
